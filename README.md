@@ -1,5 +1,5 @@
 Citi Bike Data Analysis
-
+UrL code of public Tableau:https: //public.tableau.com/views/citibike_17308020715970/mapanalyze?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 Project Overview
 
 This project analyzes data from the Citi Bike program of 2023 to provide city officials with insights into the usage patterns of the bike-sharing service. By examining factors such as peak usage times, trip durations, and station popularity, this analysis aims to inform decisions to improve program efficiency and meet rider demand.
