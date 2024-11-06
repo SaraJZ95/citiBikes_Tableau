@@ -20,24 +20,29 @@ Insight: Wednesday and Thursday have the highest ride counts, indicating mid-wee
 
 Description: This dual bar chart compares the peak hours for Citi Bike usage during summer and winter times. The summer peak hours (8 AM and 5-6 PM) align with commuting times, while winter peak hours are more concentrated in the early evening.
 Insight: Commuting patterns play a significant role in bike usage, with more balanced usage in summer and an early evening peak in winter.
+
 3. Percentage Change in Monthly Usage
 ![percentage change](https://github.com/user-attachments/assets/0bd3a5c9-3005-42f3-9ae0-288df9572cd1)
 
 Description: This horizontal bar chart displays the percentage change in record counts by month, highlighting fluctuations in ridership across different times of the year.
 Insight: Significant drops are observed in October through December, potentially due to colder weather impacting rider frequency.
+
 4. Summer Peak Hours
 Description: This chart shows peak hours for Citi Bike usage during the summer months, focusing on the times with the highest activity.
 Insight: Peak times are concentrated around morning and evening commutes, suggesting high usage by workers and commuters.
-5. Top 10 Stations for Ending a Journey
+
+6. Top 10 Stations for Ending a Journey
 ![TopTenStation-end](https://github.com/user-attachments/assets/70ba20cd-9464-45fa-b663-cc54866fed61)
 
 Description: A bar chart listing the top 10 stations where rides are most frequently ended. This helps identify popular destinations within the Citi Bike network.
 Insight: Stations like Grove St PATH and Hoboken Terminal are among the most popular endpoints, likely due to their proximity to transit hubs.
+
 6. Top 10 Stations for Starting a Journey
 ![TopTenStation-start](https://github.com/user-attachments/assets/87643882-e933-46f7-95fe-2d29fcd2fbe0)
 
 Description: This bar chart shows the top 10 starting stations, giving insight into the most popular locations for beginning a journey.
 Insight: Similar to the top destinations, the starting stations indicate that riders frequently begin trips near transit centers.
+
 7. Trip Duration Analysis by Bike Type and User Type
 ![Trip Duration anlyze](https://github.com/user-attachments/assets/50c2cbe0-085f-4d62-90e4-209fca8d8cae)
 
