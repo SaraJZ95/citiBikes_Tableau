@@ -11,7 +11,7 @@ The analysis covers multiple aspects of Citi Bike usage over selected months in 
 Visualizations
 
 1. Peak Day of the Week
-   ![Peak day in a week](https://github.com/user-attachments/assets/293372d5-bfd6-4a8e-a931-bbbbe5afeaaf)
+![number of trips](https://github.com/user-attachments/assets/7c9dce07-31ae-4d3f-8308-8f4775916068)
 
 Description: This bar chart shows the record count of rides for each day of the week, filtered to summer time. The visualization highlights the peak day for Citi Bike usage within a typical week.
 Insight: Wednesday and Thursday have the highest ride counts, indicating mid-week is the peak period for bike usage.
@@ -28,6 +28,8 @@ Description: This horizontal bar chart displays the percentage change in record 
 Insight: Significant drops are observed in October through December, potentially due to colder weather impacting rider frequency.
 
 4. Summer Peak Hours
+      ![Peak day in a week](https://github.com/user-attachments/assets/293372d5-bfd6-4a8e-a931-bbbbe5afeaaf)
+
 Description: This chart shows peak hours for Citi Bike usage during the summer months, focusing on the times with the highest activity.
 Insight: Peak times are concentrated around morning and evening commutes, suggesting high usage by workers and commuters.
 
